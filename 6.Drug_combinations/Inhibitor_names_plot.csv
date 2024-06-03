@@ -1,0 +1,17 @@
+InhibitorName;InhibitorIndex
+TMZ alone;0
+MGMT-mRNA tr;1
+G:T;2
+SSB;3
+BER;4
+O6meG DSB;5
+N73meAG DSB;6
+HR;7
+ATR prod;8
+ATR act;9
+Chk1 prod;10
+Chk1 act;11
+Cdc25 prod;12
+Cdc25 inh;13
+Cell-cycle;14
+Mdm2-mRNA bas trad;15
