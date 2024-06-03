@@ -1,0 +1,23 @@
+
+
+Cross Validation Results: MGMT_P
+0) 22475688.89980416, 0.9514315674585477, {'loss': 'squared_error', 'max_depth': 7, 'max_features': None, 'n_estimators': 1000}
+1) 23167526.314489022, 0.9499357035767971, {'loss': 'squared_error', 'max_depth': 7, 'max_features': None, 'n_estimators': 700}
+2) 24436192.20412437, 0.9471956382269777, {'loss': 'squared_error', 'max_depth': 7, 'max_features': None, 'n_estimators': 500}
+3) 42049885.32454829, 0.9091435561816354, {'loss': 'squared_error', 'max_depth': 10, 'max_features': None, 'n_estimators': 1000}
+4) 42145090.466362074, 0.9089391577034673, {'loss': 'squared_error', 'max_depth': 10, 'max_features': None, 'n_estimators': 700}
+5) 42224769.22968805, 0.9087661229841654, {'loss': 'squared_error', 'max_depth': 10, 'max_features': None, 'n_estimators': 500}
+6) 70992574.33768305, 0.8466069655998046, {'loss': 'squared_error', 'max_depth': 13, 'max_features': None, 'n_estimators': 500}
+7) 70993050.56149629, 0.8466004026194618, {'loss': 'squared_error', 'max_depth': 13, 'max_features': None, 'n_estimators': 1000}
+8) 71018939.02278689, 0.8465455871505935, {'loss': 'squared_error', 'max_depth': 13, 'max_features': None, 'n_estimators': 700}
+best_params: {'loss': 'squared_error', 'max_depth': 7, 'max_features': None, 'n_estimators': 1000}
+Non-Nested score: 0.9514315674585477
+
+Error on the prevision: MGMT_P
+MSE_prev_err: 21547821.712147158
+r2_prev_err_: 0.9533716474757943
+
+Reusult Learning Curve MGMT_P
+last_train_score_r2: 0.9979005699554191
+last_test_score_r2: 0.9538884270572232
+Learning_curve_score_r2: 0.04401214289819588
