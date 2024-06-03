@@ -1,0 +1,43 @@
+function [plot_surv_TMZalone_figcon,plot_surv_BERinh_figcon,plot_surv_HRinh_figcon,plot_surv_HRBERinh_figcon,...
+    hist_survcurv_AUC_MGMT_M_TMZalone_figcon,hist_survcurv_AUC_MGMT_P_TMZalone_figcon,hist_survcurv_AUC_allpat_TMZalone_figcon,...
+    hist_survcurv_AUC_treat_BERinh_figcon,hist_survcurv_AUC_treat_HRinh_figcon,hist_survcurv_AUC_treat_HRBERinh_figcon,...
+    hist_survcurv_AUC_2treat_BERinh_figcon,hist_survcurv_AUC_2treat_HRinh_figcon,hist_survcurv_AUC_2treat_HRBERinh_figcon,...
+    plot_surv_TMZalone_fignumb,plot_surv_BERinh_fignumb,plot_surv_HRinh_fignumb,plot_surv_HRBERinh_fignumb,...
+    hist_survcurv_AUC_MGMT_M_TMZalone_fignumb,hist_survcurv_AUC_MGMT_P_TMZalone_fignumb,hist_survcurv_AUC_allpat_TMZalone_fignumb,...
+    hist_survcurv_AUC_treat_BERinh_fignumb,hist_survcurv_AUC_treat_HRinh_fignumb,hist_survcurv_AUC_treat_HRBERinh_fignumb,...
+    hist_survcurv_AUC_2treat_BERinh_fignumb,hist_survcurv_AUC_2treat_HRinh_fignumb,hist_survcurv_AUC_2treat_HRBERinh_fignumb...
+    ] = plot_control()
+
+
+%% plot control
+plot_surv_TMZalone_figcon=0;
+plot_surv_BERinh_figcon=0;
+plot_surv_HRinh_figcon=0;
+plot_surv_HRBERinh_figcon=0;
+hist_survcurv_AUC_MGMT_M_TMZalone_figcon=0;
+hist_survcurv_AUC_MGMT_P_TMZalone_figcon=0;
+hist_survcurv_AUC_allpat_TMZalone_figcon=0;
+hist_survcurv_AUC_treat_BERinh_figcon=0;
+hist_survcurv_AUC_treat_HRinh_figcon=0;
+hist_survcurv_AUC_treat_HRBERinh_figcon=0;
+hist_survcurv_AUC_2treat_BERinh_figcon=0;
+hist_survcurv_AUC_2treat_HRinh_figcon=0;
+hist_survcurv_AUC_2treat_HRBERinh_figcon=0;
+    
+%% plot figure number
+plot_surv_TMZalone_fignumb=100;
+plot_surv_BERinh_fignumb=200;
+plot_surv_HRinh_fignumb=300;
+plot_surv_HRBERinh_fignumb=400;
+hist_survcurv_AUC_MGMT_M_TMZalone_fignumb=11;
+hist_survcurv_AUC_MGMT_P_TMZalone_fignumb=12;
+hist_survcurv_AUC_allpat_TMZalone_fignumb=13;
+hist_survcurv_AUC_treat_BERinh_fignumb=20;
+hist_survcurv_AUC_treat_HRinh_fignumb=30;
+hist_survcurv_AUC_treat_HRBERinh_fignumb=40;
+hist_survcurv_AUC_2treat_BERinh_fignumb=50;
+hist_survcurv_AUC_2treat_HRinh_fignumb=60;
+hist_survcurv_AUC_2treat_HRBERinh_fignumb=70;
+
+end
+
