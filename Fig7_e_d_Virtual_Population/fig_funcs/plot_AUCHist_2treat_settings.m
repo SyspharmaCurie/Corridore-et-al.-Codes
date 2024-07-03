@@ -1,0 +1,10 @@
+function plot_AUCHist_2treat_settings(survcurv_AUC_orig_MGMT_M_TMZalone,survcurv_AUC_orig_MGMT_P_TMZalone,...
+    survcurv_AUC_vec_MGMT_M_TMZalone,survcurv_AUC_vec_MGMT_P_TMZalone,survcurv_AUC_vec_allpat_TMZalone,...
+    survcurv_AUC_vec_MGMT_M_HRBERinh,survcurv_AUC_vec_MGMT_P_HRBERinh,survcurv_AUC_vec_allpat_HRBERinh,...
+    treat_numb,hist_survcurv_AUC_2treat_figcon,hist_survcurv_AUC_2treat_fignumb)
+
+plot_AUCHist_2treat(survcurv_AUC_vec_allpat_TMZalone,survcurv_AUC_vec_allpat_HRBERinh,survcurv_AUC_orig_MGMT_M_TMZalone,survcurv_AUC_orig_MGMT_P_TMZalone,'a','A',treat_numb,hist_survcurv_AUC_2treat_figcon,hist_survcurv_AUC_2treat_fignumb+2)
+
+
+end
+
