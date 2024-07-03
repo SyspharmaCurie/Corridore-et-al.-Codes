@@ -1,0 +1,35 @@
+InhibitorName;InhibitorIndex;InhibitorNamePlot;PlotOrder
+TMZ alone;0;TMZ alone;1
+TMZ uptake;1;TMZ uptake;2
+TMZ efflux;2;TMZ efflux;3
+O6meG Adducts;3;O6meG Adducts;4
+N37meAG Adducts;4;N37meAG Adducts;5
+MGMT transcription;5;MGMT transcription;6
+MGMT degradation;6;MGMT degradation;7
+MGMT activity;7;MGMT activity;8
+BER activity;8;BER activity;9
+G:T mispair formation;9;G:T mispair formation;10
+MMR futile loop formation;10;MMR futile loop formation;11
+O6meG-mediated DSB;11;O6meG-mediated DSB;12
+N73meAG-mediated DSB;12;N73meAG-mediated DSB;13
+HR activity;13;HR activity;14
+ATR translation;14;ATR translation;15
+ATR degradation;15;ATR degradation;16
+ATR activation;16;ATR activation;17
+pATR degradation;17;pATR degradation;18
+Chk1 translation;18;Chk1 translation;19
+Chk1 degradation;19;Chk1 degradation;20
+Chk1 activation;20;Chk1 activation;21
+pChk1 degradation;21;pChk1 degradation;22
+Cell-cycle arrest impact;22;Cell-cycle arrest impact;23
+Cdc25 translation;23;Cdc25 translation;24
+Cdc25 degradation;24;Cdc25 degradation;25
+Cdc25 inhibition;25;Cdc25 inhibition;26
+p53 basal translation;26;p53 basal translation;27
+p53 basal degradation;27;p53 basal degradation;28
+p53 translation from ATR;28;p53 translation from ATR;29
+p53 degradation from Mdm2;29;p53 degradation from Mdm2;30
+p53 activation;30;p53 activation;31
+Mdm2-mRNA transcription;31;Mdm2-mRNA transcription;32
+Mdm2 translation;32;Mdm2 translation;33
+Cell death;33;Cell death;34
